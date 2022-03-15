@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: BeetoDesigns
-  productName: CoroutineScripting
+  productName: InteractiveCoroutines
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -160,6 +160,12 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: ea56c3a6873e14ef09ddaa76bac3b777, type: 2}
   - {fileID: 2807636831949090192, guid: 24457cd414011449099d6ea344e15b23, type: 2}
   - {fileID: 0}
@@ -180,7 +186,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BeetoDesigns.CoroutineScripting
+    Android: com.BeetoDesigns.InteractiveCoroutines
     Standalone: com.BeetoDesigns.CoroutineScripting
   buildNumber:
     Standalone: 0
